@@ -153,8 +153,8 @@ BLOCK_STRUCTURES_SETTINGS = dict(
 
 ############################ FEATURE CONFIGURATION #############################
 
-PLATFORM_NAME = _('Your Platform Name Here')
-PLATFORM_DESCRIPTION = _('Your Platform Description Here')
+PLATFORM_NAME = _('BUAA POINTER')
+PLATFORM_DESCRIPTION = _('A learning support system for pointer learning in C programming language.')
 
 PLATFORM_FACEBOOK_ACCOUNT = "http://www.facebook.com/YourPlatformFacebookAccount"
 PLATFORM_TWITTER_ACCOUNT = "@YourPlatformTwitterAccount"

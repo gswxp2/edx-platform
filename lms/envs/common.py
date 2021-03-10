@@ -59,8 +59,8 @@ from lms.djangoapps.lms_xblock.mixin import LmsBlockMixin
 # .. setting_default: Your Platform Name Here
 # .. setting_description: The display name of the platform to be used in
 #     templates/emails/etc.
-PLATFORM_NAME = _('Your Platform Name Here')
-PLATFORM_DESCRIPTION = _('Your Platform Description Here')
+PLATFORM_NAME = _('BUAA POINTER')
+PLATFORM_DESCRIPTION = _('A learning support system for pointer learning in C programming language.')
 CC_MERCHANT_NAME = PLATFORM_NAME
 
 PLATFORM_FACEBOOK_ACCOUNT = "http://www.facebook.com/YourPlatformFacebookAccount"
